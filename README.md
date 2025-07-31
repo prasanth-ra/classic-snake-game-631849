@@ -1,1 +1,3 @@
-# classic-snake-game-631849
+# Project Repository
+
+This is the initial README file for the project.
